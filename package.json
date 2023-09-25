@@ -1,0 +1,34 @@
+{
+  "name": "gym-admin",
+  "version": "1.0.0",
+  "description": "an API to allow Gym administrators to administer users and their activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeybe/clean-code-practice.git"
+  },
+  "keywords": [
+    "API",
+    "relationalDB",
+    "REST",
+    "practice"
+  ],
+  "author": "Rory Brady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeybe/clean-code-practice/issues"
+  },
+  "homepage": "https://github.com/roeybe/clean-code-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.18",
+    "@types/node": "^20.6.5",
+    "typescript": "^5.2.2"
+  }
+}
